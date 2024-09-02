@@ -1,2 +1,2 @@
-# Estudos-Regressao-Multipla
-Projetos de estudo sobre Regressão Linear Múltipla
+# Estudos Regressao Linear Múltipla
+Projetos de estudo sobre Regressão Linear Múltipla em R
